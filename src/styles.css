@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -60,13 +60,14 @@ body {
 
 .logo {
   font-size: 1.25rem;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--text-primary);
   text-decoration: none;
   background: linear-gradient(135deg, var(--accent), #06b6d4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  font-family: 'Inter', sans-serif;
 }
 
 .nav-links {
@@ -102,10 +103,12 @@ body {
   font-weight: 700;
   margin-bottom: 1.5rem;
   line-height: 1.2;
+  letter-spacing: -0.02em;
   background: linear-gradient(135deg, var(--text-primary), var(--accent));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  font-family: 'Inter', sans-serif;
 }
 
 .hero-subtitle {
@@ -168,6 +171,8 @@ section {
   margin-bottom: 3rem;
   text-align: center;
   color: var(--text-primary);
+  letter-spacing: -0.01em;
+  font-family: 'Inter', sans-serif;
 }
 
 /* Services */
@@ -203,13 +208,26 @@ section {
 
 .service-card h3 {
   font-size: 1.5rem;
+  font-weight: 600;
   margin-bottom: 0.5rem;
   color: var(--text-primary);
+  font-family: 'Inter', sans-serif;
 }
 
-.service-card p {
+.service-label {
+  color: var(--accent);
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.service-description {
   color: var(--text-secondary);
-  font-size: 1rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0;
 }
 
 /* Work */
@@ -248,8 +266,10 @@ section {
 
 .work-card h3 {
   font-size: 1.5rem;
+  font-weight: 600;
   margin-bottom: 0.5rem;
   color: var(--text-primary);
+  font-family: 'Inter', sans-serif;
 }
 
 .work-card p {
@@ -291,6 +311,8 @@ section {
   color: var(--accent);
   margin-bottom: 0.5rem;
   word-break: break-all;
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.01em;
 }
 
 .contact-label {
