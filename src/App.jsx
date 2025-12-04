@@ -1,23 +1,18 @@
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import Services from './components/Services'
-import Work from './components/Work'
-import About from './components/About'
-import Contact from './components/Contact'
-import Footer from './components/Footer'
-import { scrollToSection } from './utils/scrollToSection'
-import { EMAIL } from './config/constants'
+import { Routes, Route } from 'react-router-dom'
+import Home from './pages/Home'
+import Privacy from './pages/Privacy'
+import Terms from './pages/Terms'
+import Imprint from './pages/Imprint'
 
 function App() {
 	return (
 		<div className='app'>
-			<Navbar scrollToSection={scrollToSection} />
-			<Hero email={EMAIL} />
-			<Services />
-			<Work />
-			<About />
-			<Contact email={EMAIL} />
-			<Footer />
+			<Routes>
+				<Route path='/' element={<Home />} />
+				<Route path='/privacy' element={<Privacy />} />
+				<Route path='/terms' element={<Terms />} />
+				<Route path='/imprint' element={<Imprint />} />
+			</Routes>
 		</div>
 	)
 }
