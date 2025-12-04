@@ -19,7 +19,7 @@ function Navbar({ scrollToSection }) {
 								e.preventDefault()
 								scrollToSection('services')
 							}}>
-							Services
+							What We Build
 						</a>
 						<a
 							href='#work'
@@ -27,7 +27,7 @@ function Navbar({ scrollToSection }) {
 								e.preventDefault()
 								scrollToSection('work')
 							}}>
-							Work
+							Products
 						</a>
 						<a
 							href='#about'

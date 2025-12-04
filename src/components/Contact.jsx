@@ -20,7 +20,7 @@ function Contact({ email }) {
 				<div className='contact-card'>
 					<div className='contact-email'>{email}</div>
 					<div className='contact-label'>
-						Available for new projects
+						Get in touch with us
 					</div>
 					<div className='contact-buttons'>
 						<button onClick={copyEmail} className='btn btn-primary'>
@@ -34,11 +34,11 @@ function Contact({ email }) {
 					</div>
 					<div className='contact-icons'>
 						<a
-							href='https://wailsolaiman.com'
+							href='https://klardesk.de'
 							target='_blank'
 							rel='noopener noreferrer'
 							className='icon-link'>
-							🌐 Portfolio
+							🌐 KlarDesk
 						</a>
 					</div>
 				</div>

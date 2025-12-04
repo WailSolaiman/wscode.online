@@ -1,32 +1,32 @@
 function Services() {
 	const services = [
 		{
-			icon: '⚛️',
-			title: 'Custom Web Apps',
-			label: 'React/Next.js',
+			icon: '🌐',
+			title: 'Web Applications',
+			label: 'Modern Tech Stack',
 			description:
-				'Modern applications built with latest frameworks and best practices.',
+				'We build scalable web applications using React, Next.js, and modern frameworks for optimal performance.',
 		},
 		{
 			icon: '🚀',
 			title: 'SaaS Products',
-			label: 'Fast MVPs',
+			label: 'User-Focused',
 			description:
-				'From idea to launch in weeks, not months. Built to scale from day one.',
+				'Our SaaS products are designed with users in mind, solving real problems with intuitive interfaces.',
 		},
 		{
-			icon: '📝',
-			title: 'WordPress Solutions',
-			label: 'Plugins & custom sites',
+			icon: '🔧',
+			title: 'Continuous Improvement',
+			label: 'Always Evolving',
 			description:
-				'Custom functionality and tailored websites that fit your exact needs.',
+				'We continuously update and improve our products based on user feedback and emerging needs.',
 		},
 	]
 
 	return (
 		<section id='services' className='services'>
 			<div className='container'>
-				<h2 className='section-title'>Services</h2>
+				<h2 className='section-title'>What We Build</h2>
 				<div className='services-grid'>
 					{services.map((service, index) => (
 						<div key={index} className='service-card'>

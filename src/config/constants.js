@@ -1,2 +1,2 @@
 export const EMAIL = 'hello@wscode.online'
-export const PORTFOLIO_URL = 'https://wailsolaiman.com'
+export const KLARDESK_URL = 'https://klardesk.de'

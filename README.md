@@ -1,27 +1,30 @@
 # WS Code-Online
 
-Welcome to WS Code-Online, the freelance web development services of Wail Solaiman.
+Welcome to WS Code-Online, a software company focused on building practical SaaS applications.
 
 ## About
 
-I'm Wail, a freelance frontend web developer based in Germany. I specialize in building fast, clean, and scalable web applications. My focus is on delivering high-quality code that gets your product to market quickly without compromising on performance or maintainability.
+WS Code-Online is a software company focused on building practical SaaS applications. We develop web apps that address real-world challenges, starting with KlarDesk—a translation service for German official documents. We're committed to creating tools that simplify everyday tasks and improve accessibility. Our mission is to build products that make a difference, one app at a time.
 
-## Services
+## Our Products
 
-### Custom Web Apps
-Build modern, scalable applications with React and Next.js. I deliver fast, performant solutions using industry best practices.
+### KlarDesk
+SaaS application for translating German official office documents to Arabic. Streamlining communication for Arabic speakers in Germany.
 
-### SaaS Products
-From concept to launch in weeks, not months. I build SaaS and micro-SaaS MVPs that are ready to scale from day one.
+### More Apps Coming Soon
+We're constantly working on new products to solve everyday challenges. Stay tuned for more innovative solutions.
 
-### WordPress Solutions
-Custom WordPress plugins and tailored websites that fit your exact needs. From functionality to design, I create solutions that work.
+## What We Build
+
+- **Web Applications** - Modern, scalable applications using React, Next.js, and modern frameworks
+- **SaaS Products** - User-focused products designed to solve real problems
+- **Continuous Improvement** - We continuously update and improve our products based on user feedback
 
 ## Get in Touch
 
-Currently accepting new projects and exciting collaborations. Let's create something extraordinary together.
+Get in touch with us for any inquiries or feedback.
 
 - **Email:** hello@wscode.online
-- **Portfolio:** [wailsolaiman.com](https://wailsolaiman.com)
+- **KlarDesk:** [klardesk.de](https://klardesk.de)
 - **Website:** [wscode.online](https://wscode.online)
 

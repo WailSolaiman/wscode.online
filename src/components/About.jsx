@@ -5,12 +5,11 @@ function About() {
 				<h2 className='section-title'>About</h2>
 				<div className='about-content'>
 					<p>
-						I'm Wail, a freelance frontend web developer based in
-						Germany. I focus on building clean UI, optimizing
-						performance, and shipping MVPs that get your product to
-						market fast. Whether it's a web app, SaaS platform, or
-						WordPress solution, I deliver code that's maintainable
-						and scalable.
+						WS Code-Online is a software company focused on building practical SaaS applications. 
+						We develop web apps that address real-world challenges, starting with KlarDesk—a 
+						translation service for German official documents. We're committed to creating tools 
+						that simplify everyday tasks and improve accessibility. Our mission is to build 
+						products that make a difference, one app at a time.
 					</p>
 				</div>
 			</div>
