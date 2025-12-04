@@ -5,7 +5,7 @@ function Services() {
 			title: 'Custom Web Apps',
 			label: 'React/Next.js',
 			description:
-				'Fast, scalable applications built with modern frameworks and best practices.',
+				'Modern applications built with latest frameworks and best practices.',
 		},
 		{
 			icon: '🚀',
