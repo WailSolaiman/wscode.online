@@ -49,7 +49,7 @@ function Terms() {
 							<h2>5. Contact</h2>
 							<p>
 								For questions about these Terms, please contact:{' '}
-								<a href='mailto:hello@wscode.online'>hello@wscode.online</a>
+								<a href='mailto:support@wscode.online'>support@wscode.online</a>
 							</p>
 						</div>
 					</div>

@@ -24,7 +24,7 @@ We're constantly working on new products to solve everyday challenges. Stay tune
 
 Get in touch with us for any inquiries or feedback.
 
-- **Email:** hello@wscode.online
+- **Email:** support@wscode.online
 - **KlarDesk:** [klardesk.de](https://klardesk.de)
 - **Website:** [wscode.online](https://wscode.online)
 

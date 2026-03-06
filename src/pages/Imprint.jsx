@@ -26,7 +26,7 @@ function Imprint() {
 						<div className='legal-section'>
 							<h2>Contact</h2>
 							<p>
-								Email: <a href='mailto:hello@wscode.online'>hello@wscode.online</a>
+								Email: <a href='mailto:support@wscode.online'>support@wscode.online</a>
 								<br />
 								Website: <a href='https://wscode.online' target='_blank' rel='noopener noreferrer'>wscode.online</a>
 							</p>

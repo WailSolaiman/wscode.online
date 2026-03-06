@@ -46,7 +46,7 @@ function Privacy() {
 							<h2>4. Contact Us</h2>
 							<p>
 								If you have any questions about this Privacy Policy, please contact us at:{' '}
-								<a href='mailto:hello@wscode.online'>hello@wscode.online</a>
+								<a href='mailto:support@wscode.online'>support@wscode.online</a>
 							</p>
 						</div>
 					</div>
