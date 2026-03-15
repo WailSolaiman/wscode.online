@@ -15,6 +15,13 @@ function Work() {
       image: "/images/msa-banner.jpg",
     },
     {
+      title: "WhatsAgents",
+      description:
+        "AI-powered WhatsApp automation for businesses. A cloud SaaS platform that turns WhatsApp into an automated customer service and sales channel—smart agent responds to inquiries 24/7, integrates with WooCommerce and Shopify, with no human intervention.",
+      url: "https://whatsagents.co",
+      image: "/images/WhatsAgents-banner.jpg",
+    },
+    {
       title: "More Apps Coming Soon",
       description:
         "We're constantly working on new products to solve everyday challenges. Stay tuned for more innovative solutions.",
